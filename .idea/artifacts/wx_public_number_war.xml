@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wx-public-number:war">
+    <output-path>$PROJECT_DIR$/../wx-public-number/target</output-path>
+    <root id="archive" name="wx-public-number-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="wx-public-number:war exploded" />
+    </root>
+  </artifact>
+</component>
